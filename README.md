@@ -1,6 +1,7 @@
 # Time-Series-Analysis
 
-**HACCP_TOOL** is where the scipts run\\
+**HACCP_TOOL** is where the scipts run
+
 **MakeDataset** is the script where the dataset is created
 **Train** is the script were the modes trained
 **Prediction** were the predictions made
