@@ -8,6 +8,8 @@
 
 **Prediction** were the predictions made
 
+**Alarms** where the alarm data created
+
 *EDA_SM* where the preliminary analysis takes places
 
 *AnomalyExploration* Exploration analysis, labeling, feature engineering, training oversampling
