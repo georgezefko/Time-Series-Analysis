@@ -12,9 +12,9 @@
 
 *EDA_SM* where the preliminary analysis takes places
 
-*AnomalyExploration* Exploration analysis, labeling, feature engineering, training oversampling
+*AnomalyExploration* Exploration analysis, labeling, feature engineering, training oversampling (it might be a bit messy towards the end)
 
-*Feature_extract* feature extraction with tsfresh library
+*Feature_extract* feature extraction with tsfresh library (used only during exploration in Anomaly exploration notebook)
 
 *AlarmsEDA* Alarms exploration
 
