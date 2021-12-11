@@ -16,7 +16,7 @@ The notebooks below used for exploration. They might be a bit messy as they have
 
 *EDA_SM* where the preliminary analysis takes places
 
-*AnomalyExploration* Exploration analysis, labeling, feature engineering, training, oversampling (it might be a bit messy)
+*AnomalyExploration* Exploration analysis, labeling, feature engineering, training, oversampling (it might be a bit messy but gives good understanding of the steps)
 
 *AlarmsEDA* Alarms exploration
 
